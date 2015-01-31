@@ -1,0 +1,16 @@
+a {
+  color: #49bbc9;
+}
+
+.post-title .date {
+  font-size: 0.7em;
+}
+
+.container {
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #fdfdfa;
+}
